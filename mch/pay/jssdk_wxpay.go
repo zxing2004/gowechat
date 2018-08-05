@@ -7,8 +7,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/yaotian/gowechat/mch/base"
-	"github.com/yaotian/gowechat/util"
+	"github.com/zxing2004/gowechat/mch/base"
+	"github.com/zxing2004/gowechat/util"
 )
 
 //OrderInput 下单

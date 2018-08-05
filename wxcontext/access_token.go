@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/yaotian/gowechat/util"
+	"github.com/zxing2004/gowechat/util"
 )
 
 const (

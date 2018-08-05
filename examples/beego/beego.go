@@ -5,10 +5,10 @@ import (
 
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/context"
-	"github.com/yaotian/gowechat"
-	"github.com/yaotian/gowechat/mp/message"
-	"github.com/yaotian/gowechat/mp/user"
-	"github.com/yaotian/gowechat/wxcontext"
+	"github.com/zxing2004/gowechat"
+	"github.com/zxing2004/gowechat/mp/message"
+	"github.com/zxing2004/gowechat/mp/user"
+	"github.com/zxing2004/gowechat/wxcontext"
 )
 
 var appURL = "http://localhost:8001"

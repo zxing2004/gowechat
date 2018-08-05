@@ -5,9 +5,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/yaotian/gowechat/mp/base"
-	"github.com/yaotian/gowechat/util"
-	"github.com/yaotian/gowechat/wxcontext"
+	"github.com/zxing2004/gowechat/mp/base"
+	"github.com/zxing2004/gowechat/util"
+	"github.com/zxing2004/gowechat/wxcontext"
 )
 
 const (
